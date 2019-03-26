@@ -1,0 +1,25 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="10.15.0" last-modified="1545802846000" />
+    </local-interpreter>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6546961" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.72270745" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="FileTemplates.CurrentTab" value="Code" />
+    <property name="FileTemplates.SelectedTemplate" value="React Class Component" />
+    <property name="WebStorm.enableDefaultTooltipFixes" value="true" />
+    <property name="WebStorm.enableSmartQuotes" value="true" />
+    <property name="WebStorm.initialConfigurationShown" value="true" />
+    <property name="evlsprt.183" value="169e9035392" />
+    <property name="evlsprt2.183" value="169a610d9f8" />
+    <property name="evlsprt3.183" value="13" />
+    <property name="file.gist.reindex.count" value="236436" />
+    <property name="fileTypeChangedCounter" value="4" />
+    <property name="mt.showStatisticsAgreement" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+</application>
